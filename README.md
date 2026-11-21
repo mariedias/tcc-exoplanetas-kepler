@@ -69,6 +69,6 @@ As sementes são fixas: 42 na partição e no SMOTE; 42, 7 e 123 no treinamento 
 
 ## Referências principais
 
-- SHALLUE, C. J.; VANDERBURG, A. Identifying exoplanets with deep learning: a five-planet resonant chain around Kepler-80 and an eighth planet around Kepler-90. *The Astronomical Journal*, v. 155, n. 2, p. 94, 2018.
-- SALINAS, H. et al. Distinguishing a planetary transit from false positives: a transformer-based classification for planetary transit signals. *Monthly Notices of the Royal Astronomical Society*, v. 522, n. 3, p. 3201-3216, 2023.
-- THOMPSON, S. E. et al. Planetary candidates observed by Kepler. VIII. A fully automated catalog with measured completeness and reliability based on data release 25. *The Astrophysical Journal Supplement Series*, v. 235, n. 2, p. 38, 2018.
+- SALINAS, H. et al. Distinguishing a planetary transit from false positives: a transformer-based classification for planetary transit signals. **Monthly Notices of the Royal Astronomical Society**, v. 522, n. 3, p. 3201-3216, 2023. DOI: [10.1093/mnras/stad1173](https://doi.org/10.1093/mnras/stad1173).
+- SHALLUE, C. J.; VANDERBURG, A. Identifying exoplanets with deep learning: a five-planet resonant chain around Kepler-80 and an eighth planet around Kepler-90. **The Astronomical Journal**, v. 155, n. 2, p. 94, 2018. DOI: [10.3847/1538-3881/aa9e09](https://doi.org/10.3847/1538-3881/aa9e09).
+- THOMPSON, S. E. et al. Planetary candidates observed by Kepler. VIII. A fully automated catalog with measured completeness and reliability based on data release 25. **The Astrophysical Journal Supplement Series**, v. 235, n. 2, p. 38, 2018. DOI: [10.3847/1538-4365/aab4f9](https://doi.org/10.3847/1538-4365/aab4f9).
